@@ -1,2 +1,2 @@
 # Swift_Training_Project
-Projects to improve my Swift skills.
+Collection of small projects to improve my Swift skill
